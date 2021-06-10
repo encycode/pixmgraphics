@@ -1,0 +1,68 @@
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+
+[data-theme="dark"] #header {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] #txt_big_w {
+  color: #eee !important;
+}
+
+/* [data-theme="dark"] #menus {
+  color: #eee !important;
+} */
+
+[data-theme="dark"] #dd{
+  color: #555555;
+}
+
+[data-theme="dark"] #menus:hover {
+  color: #3498db !important;
+}
+
+[data-theme="dark"] #txt_sml_w {
+  color: rgb(179, 179, 179) !important;
+}
+
+[data-theme="dark"] #footer {
+  background-color: #000 !important;
+  color: rgb(117, 117, 117);
+}
+
+[data-theme="dark"] #anchor {
+  background-color: #000 !important;
+  color: #3498db i !important;
+}
+
+[data-theme="dark"] #box_txt_sml {
+  color: rgb(180, 180, 180) !important;
+}
+
+[data-theme="dark"] #cardd {
+  color: rgb(255, 255, 255) !important;
+}
+
+[data-theme="dark"] #lgin {
+  filter: brightness(0) invert(1)!important;
+}
+
+[data-theme="dark"] #ic {
+  filter: brightness(0) invert(1)!important;
+}
+
+
